@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/landing-page/static/css/main.d92100b5.css",
-    "main.js": "/landing-page/static/js/main.6fdbae1c.js",
+    "main.js": "/landing-page/static/js/main.c97dfdc4.js",
     "static/media/helicopter.jpg": "/landing-page/static/media/helicopter.02ba4f63dec1c6430ef6.jpg",
     "static/media/photo.png": "/landing-page/static/media/photo.c373d2305cd08b3948b1.png",
     "static/media/helicopterMobile.png": "/landing-page/static/media/helicopterMobile.316c77bfea7ef1182e13.png",
@@ -28,10 +28,10 @@
     "static/media/pause.svg": "/landing-page/static/media/pause.004c964f5d501b6157c63e8bce83bd36.svg",
     "static/media/check.svg": "/landing-page/static/media/check.208a32d61d5ef0dcad0ae4fa7e7cc498.svg",
     "main.d92100b5.css.map": "/landing-page/static/css/main.d92100b5.css.map",
-    "main.6fdbae1c.js.map": "/landing-page/static/js/main.6fdbae1c.js.map"
+    "main.c97dfdc4.js.map": "/landing-page/static/js/main.c97dfdc4.js.map"
   },
   "entrypoints": [
     "static/css/main.d92100b5.css",
-    "static/js/main.6fdbae1c.js"
+    "static/js/main.c97dfdc4.js"
   ]
 }
